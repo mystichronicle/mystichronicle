@@ -6,7 +6,7 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=shinyzenith&color=45707a&style=flat-square" alt="GitHub page views">
   <h1 align='center'>Skills:</h1>
-  <img src="https://skillicons.dev/icons?i=linux,githubc,cppjavadiscord alt="Skills">
+  <img src="https://skillicons.dev/icons?i=linux,github,cpp,java,discord alt="Skills">
   <br>
 </p>
 
