@@ -6,7 +6,7 @@
   <br>
   
   <h1 align='center'>Skills:</h1>
-  <img src="https://skillicons.dev/icons?i=linux,github,c,cpp,java alt="Skills">
+  <h1 align='center'><img src="https://skillicons.dev/icons?i=linux,github,c,cpp,java alt="Skills">
   <br>
 </p>
 
