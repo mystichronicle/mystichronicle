@@ -4,9 +4,9 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=debjit-mandal&count_private=true&theme=gruvbox&show_icons=true"  height="200">
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=shinyzenith&color=45707a&style=flat-square" alt="GitHub page views">
+  <img src="https://komarev.com/ghpvc/?username=debjit-mandal&color=45707a&style=flat-square" alt="GitHub page views">
   <h1 align='center'>Skills:</h1>
-  <img src="https://skillicons.dev/icons?i=linux,github,c,cpp,javaalt="Skills">
+  <img src="https://skillicons.dev/icons?i=linux,github,c,cpp,java alt="Skills">
   <br>
 </p>
 
