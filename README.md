@@ -29,19 +29,7 @@
 
 ### Skills 💻
 
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![ANGULAR](https://img.shields.io/badge/-angular-CB3837?style=flat-square&logo=angular)
-![typescript](https://img.shields.io/badge/-typescript-%231572B6?style=flat-square&logo=typescript&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![LINUX](http://img.shields.io/badge/-linux-5391FE?style=flat-square&logo=linux&logoColor=ffffff)
+  <img src="https://skillicons.dev/icons?i=linux,bsd,vim,git,github,gitlab,arduino,bash,c,cpp,css,deno,go,html,java,md,nim,nodejs,php,py,rust,scala,ts,zig,regex,django,express,flask,gtk,nextjs,nuxtjs,vue,qt,react,mongodb,mysql,postgres,redis,ansible,aws,cloudflare,docker,discord,ai,ps" alt="Skills">
 <br/>
 
 ---
