@@ -8,7 +8,7 @@
 - 👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology
 - 📚 Every day I keep learning about Frontend and Backend technologies 😅
 - 💪🏼 New objectives: Learn more and not stop developing ideas.
-- ⚡ Curious data: I love listening to music and read story books 🎼 📖.
+- ⚡ I love listening to music and read story books 🎼 📖.
 
 ---
 
