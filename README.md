@@ -42,7 +42,7 @@
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debjit-mandal&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aaron1011&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debjit-mandal&theme=react&line_height=40&hide=css"/>
     </a>
 </div
   
@@ -57,4 +57,4 @@
 [linkedin]: https://www.linkedin.com/in/debjit-mandal-53676b22a/
 [Facebook]: https://www.facebook.com/iamdebjitmandal
 [Twitter]: https://twitter.com/iamdebjitmandal
-[website]: https://debjitdm.wixsite.com/debjitmandal
+[website]: https://debjit-dm.info
