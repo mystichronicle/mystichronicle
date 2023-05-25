@@ -1,6 +1,5 @@
-# Hi, I'm Debjit <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-
-<img align="right" alt="👋" />
+# Hi, I'm Debjit  <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋" /> 
+<img align="right" alt="GIF" height="203px" src="https://i.imgur.com/RHtHu0o.gif" />
 
 
 ## About me
