@@ -59,7 +59,7 @@
   
 
 <h1 align="center">
-  <a href="https://github.com/debjit-mandal/debjit-mandal/main/debjit-mandalPubKey.gpg ">
+  <a href="https://github.com/debjit-mandal/debjit-mandal/blob/main/debjit-mandalPubKey.gpg ">
   My gpg key!
   </a>
 </h1>
