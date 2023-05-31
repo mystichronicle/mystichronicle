@@ -49,7 +49,6 @@
 
 ---
 
----
 
 
 [instagram]: https://www.instagram.com/iamdebjitmandal/
@@ -57,3 +56,13 @@
 [Facebook]: https://www.facebook.com/iamdebjitmandal
 [Twitter]: https://twitter.com/iamdebjitmandal
 [website]: https://debjit-dm.info
+  
+
+<h1 align="center">
+  <a href="https://raw.githubusercontent.com/debjit-mandal/debjit-mandal/main/debjit-mandalPubKey.gpg ">
+  My gpg key!
+  </a>
+</h1>
+  
+---
+  
