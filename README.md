@@ -38,10 +38,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debjit-mandal&show_icons=true&include_all_commits=true&count_private=true&theme=default&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debjit-mandal&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debjit-mandal&theme=default&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debjit-mandal&theme=nightowl&line_height=40&hide=css"/>
     </a>
 </div
   
