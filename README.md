@@ -1,7 +1,8 @@
-<a href="https://git.io/debjit-mandal"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=34&duration=3000&pause=1000&color=EBF7F0&width=435&lines=Hi%2C+I'm+Debjit%F0%9F%99%8F" alt="Typing SVG" /></a>
----
+# Hi, I'm Debjit  <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋" /> 
 
-## About me  <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋" />
+
+
+## About me
 
 - 👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology
 - 📚 Every day I keep learning about Frontend and Backend technologies 😅
