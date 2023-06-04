@@ -38,10 +38,19 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debjit-mandal&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&line_height=40" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debjit-mandal&theme=highcontrast" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=debjit-mandal&theme=highcontrast&line_height=40&hide=css"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debjit-mandal&theme=highcontrast"/>
+    </a>
+      <a href="">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debjit-mandal&theme=highcontrast"/>
+    </a>
+      <a href="">
+      <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debjit-mandal&theme=highcontrast"/>
+    </a>
+      <a href="">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debjit-mandal&theme=highcontrast&utcOffset=8"/>
     </a>
 </div
   
@@ -57,7 +66,6 @@
 [Twitter]: https://twitter.com/iamdebjitmandal
 [website]: https://debjit-dm.info
   
-
 <h1 align="center">
   <a href="https://github.com/debjit-mandal/debjit-mandal/blob/main/debjit-mandalPubKey.gpg ">
   My gpg key!
@@ -65,4 +73,5 @@
 </h1>
   
 ---
+
   
