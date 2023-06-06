@@ -47,7 +47,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debjit-mandal&theme=highcontrast"/>
     </a>
       <a href="">
-      <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debjit-mandal&theme=highcontrast"/>
+      <img src="https://streak-stats.demolab.com?user=debjit-mandal&theme=highcontrast&hide_border=true&card_width=350"/>
     </a>
       <a href="">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debjit-mandal&theme=highcontrast&utcOffset=8"/>
