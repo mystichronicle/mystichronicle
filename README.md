@@ -67,6 +67,12 @@
 [website]: https://debjit-dm.info
   
 <h1 align="center">
+  <a href="https://app.daily.dev/debjit-mandal"><img src="https://api.daily.dev/devcards/3b113bfd352341a596525aa5933abce4.png?r=ox9" width="400" alt="Debjit Mandal's Dev Card"/>
+  </a>
+  </h1>
+  
+ ---
+<h1 align="center">
   <a href="https://github.com/debjit-mandal/debjit-mandal/blob/main/debjit-mandalPubKey.gpg ">
   My gpg key!
   </a>
