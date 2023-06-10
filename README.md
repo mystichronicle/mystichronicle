@@ -28,7 +28,7 @@
 
 ### Languages and Tools 💻
 
-  <img src="https://skillicons.dev/icons?i=linux,vim,git,github,gitlab,bash,c,cpp,css,go,html,js,java,md,nodejs,php,py,rust,express,react,mongodb,mysql,discord" alt="Languages and Tools">
+  <img src="https://skillicons.dev/icons?i=linux,vim,git,github,gitlab,bash,c,cpp,css,go,html,js,java,md,nodejs,php,py,rust,vscode,express,react,mongodb,mysql,discord" alt="Languages and Tools">
 <br/>
 
 ---
