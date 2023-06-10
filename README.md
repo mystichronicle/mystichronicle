@@ -26,9 +26,9 @@
 
 ---
 
-### Skills 💻
+### Langiages and Tools 💻
 
-  <img src="https://skillicons.dev/icons?i=linux,bsd,vim,git,github,gitlab,arduino,bash,c,cpp,css,deno,go,html,java,md,nim,nodejs,php,py,rust,scala,ts,zig,regex,django,express,flask,gtk,nextjs,nuxtjs,vue,qt,react,mongodb,mysql,postgres,redis,ansible,aws,cloudflare,docker,discord,ai,ps" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=linux,vim,git,github,gitlab,bash,c,cpp,css,go,html,js,java,md,nodejs,php,py,rust,express,react,mongodb,mysql,discord" alt="Languages and Tools">
 <br/>
 
 ---
