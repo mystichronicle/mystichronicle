@@ -1,7 +1,6 @@
 <h1 align="center"> Hi, I'm Debjit 👋  </h1> 
 
-
-
+---
 <h1 align="center"> About Me </h1>
 
 <table width="100%">
