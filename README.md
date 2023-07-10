@@ -76,7 +76,7 @@
   
  ---
 
-<h2 align="center"> Contact me 📲 </h2>
+<h1 align="center"> Contact me 📲 </h1>
 <p align="center">
 	<a href="https://linkedin.com/in/iamdebjitmandal"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
 	<a href="https://www.instagram.com/iamdebjitmandal"><img src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" alt="Instagram" width="50px"/></a>
