@@ -1,30 +1,30 @@
-# Hi, I'm Debjit 👋 
+<h1 align="center"> Hi, I'm Debjit 👋  </h1> 
 
 
 
-## About me
+<h2 align="center"> About Me </h2>
 
-- 👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology
-- 📚 Every day I keep learning about Frontend and Backend technologies 
-- 💪🏼 New objectives: Learn more and not stop developing ideas.
-- ⚡ I love listening to music and read story books 🎼 📖.
-
----
-
-
-
-### Contact me 📲
-
-
-[<img align="left" alt="bilgehangecici | LinkedIn" width="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="50px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
-[<img align="left" alt="bilgehangecici | Facebook" width="50px" src="https://i.imgur.com/26xiPcn.gif" />][Facebook]
-[<img align="left" alt="bilgehangecici | Twitter" width="50px" src="https://i.imgur.com/w42W6Bm.gif" />][Twitter]
-[<img align="left" alt="bilgehangecici | Website" width="50px" src="https://i.imgur.com/jOPHjpU.gif" />][website]
-
-<br />
+<table width="100%">
+<tr>
+<td>
+<ul>
+<li>👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology</li>
+<li>📚 Every day I keep learning about Frontend and Backend technologies</li>
+<li>💪🏼 New objectives: Learn more and not stop developing ideas.</li>
+<li>⚡ I love listening to music and read story books 🎼 📖.</li>
+</ul>
+</td>
+<td>
+<img style="width: 100%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+</td>
+</tr>
+</table>
 
 ---
+
+
+
+
 
 ### Languages and Tools 💻
 
@@ -72,6 +72,18 @@
   </h1>
   
  ---
+
+<h2 align="center"> Contact me 📲 </h2>
+<p align="center">
+	<a href="https://linkedin.com/in/iamdebjitmandal"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
+	<a href="https://www.instagram.com/iamdebjitmandal"><img src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" alt="Instagram" width="50px"/></a>
+	<a href="https://www.facebook.com/iamdebjitmandal"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
+	<a href="https://www.twitter.com/iamdebjitmandal/"><img src="https://i.imgur.com/w42W6Bm.gif" alt="Twitter" width="50px"/></a>
+	<a href="https://debjit-dm.info"><img src="https://i.imgur.com/jOPHjpU.gif" alt="Website" width="50px"/></a>
+</p>
+
+
+---
 <h1 align="center">
   <a href="https://github.com/debjit-mandal/debjit-mandal/blob/main/debjit-mandalPubKey.gpg ">
   My gpg key!
