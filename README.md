@@ -2,9 +2,9 @@
 
 
 
-<h2 align="center"> About Me </h2>
+<h1 align="center"> About Me </h1>
 
-<table width="100%" height="350">
+<table width="100%">
 <tr>
 <td>
 <ul>
@@ -18,7 +18,7 @@
 </ul>
 </td>
 <td>
-<img style="width: 100% height: 10%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+<img style="width: 100%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
 </td>
 </tr>
 </table>
@@ -37,7 +37,7 @@
 ---
 
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h1 align="center"> Github Statistics 📈 </h1>
   
   <div align="center"> 
      <a href="">
