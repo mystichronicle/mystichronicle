@@ -17,7 +17,7 @@
 </ul>
 </td>
 <td>
-<img style="width: 100%" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif">
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </td>
 </tr>
 </table>
