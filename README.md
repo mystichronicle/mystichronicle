@@ -7,11 +7,11 @@
 <tr>
 <td>
 <ul>
-<li>👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology</li>
-<li>📚 Every day I keep learning about Frontend and Backend technologies</li>
-<li>👯 Interested in Data Science, Data Analysis, Artificial Intelligence and Machine Learning</li>
-<li>✨ Currently Learning Natural Language Processing (NLP)</li>
-<li>🌱 Experimenting with Tensorflow</li>
+<li>👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology.</li>
+<li>📚 Every day I keep learning about Frontend and Backend technologies.</li>
+<li>👯 Interested in Data Science, Data Analysis, Artificial Intelligence and Machine Learning.</li>
+<li>✨ Currently Learning Natural Language Processing (NLP).</li>
+<li>🌱 Experimenting with Tensorflow.</li>
 <li>💪🏼 New objectives: Learn more and not stop developing ideas.</li>
 <li>⚡ I love listening to music and read story books 🎼 📖.</li>
 </ul>
