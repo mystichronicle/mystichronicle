@@ -76,7 +76,7 @@
 	<a href="https://linkedin.com/in/iamdebjitmandal"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
 	<a href="https://www.instagram.com/iamdebjitmandal"><img src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" alt="Instagram" width="50px"/></a>
 	<a href="https://www.facebook.com/iamdebjitmandal"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
-	<a href="https://www.twitter.com/iamdebjitmandal/"><img src="https://i.imgur.com/w42W6Bm.gif" alt="Twitter" width="50px"/></a>
+	<a href="https://twitter.com/iamdebjitmandal"><img src="https://i.imgur.com/9HedEU4.gif" alt="X" width="50px" height="39.5px" /></a>
 	<a href="https://debjit-mandal.is-a.dev"><img src="https://i.imgur.com/jOPHjpU.gif" alt="Website" width="50px"/></a>
 </p>
 
