@@ -66,7 +66,7 @@
 [linkedin]: https://www.linkedin.com/in/debjit-mandal-53676b22a/
 [Facebook]: https://www.facebook.com/iamdebjitmandal
 [Twitter]: https://twitter.com/iamdebjitmandal
-[website]: https://debjit-mandal.is-a.dev
+[website]: https://debjit-mandal.com
 
   
  ---
@@ -77,7 +77,7 @@
 	<a href="https://www.instagram.com/iamdebjitmandal"><img src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" alt="Instagram" width="50px"/></a>
 	<a href="https://www.facebook.com/iamdebjitmandal"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
 	<a href="https://twitter.com/iamdebjitmandal"><img src="https://i.imgur.com/9HedEU4.gif" alt="X" width="50px" height="39.5px" /></a>
-	<a href="https://debjit-mandal.is-a.dev"><img src="https://i.imgur.com/jOPHjpU.gif" alt="Website" width="50px"/></a>
+	<a href="https://debjit-mandal.com"><img src="https://i.imgur.com/jOPHjpU.gif" alt="Website" width="50px"/></a>
 </p>
 
 
