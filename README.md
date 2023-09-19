@@ -46,7 +46,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debjit-mandal&theme=highcontrast"/>
     </a>
       <a href="">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debjit-mandal&theme=2077"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=debjit-mandal&theme=highcontrast"/>
     </a>
       <a href="">
       <img src="https://streak-stats.demolab.com?user=debjit-mandal&theme=highcontrast&hide_border=true&card_width=340"/>
