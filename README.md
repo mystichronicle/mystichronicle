@@ -8,7 +8,7 @@
 <td>
 <ul>
 <li>👨‍💻 I am currently studying B.Tech in CSE at Kalinga Institute Of Industrial Technology.</li>
-<li>📚 Every day I keep learning about Frontend and Backend technologies.</li>
+<li>📚 Every day I keep learning about different technologies.</li>
 <li>👯 Interested in Data Science, Data Analysis, Artificial Intelligence and Machine Learning.</li>
 <li>✨ Currently Learning Natural Language Processing (NLP).</li>
 <li>🌱 Experimenting with Tensorflow.</li>
