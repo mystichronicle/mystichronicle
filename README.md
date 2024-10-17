@@ -62,10 +62,10 @@
 
 
 
-[instagram]: https://www.instagram.com/iamdebjitmandal/
+[instagram]: https://www.instagram.com/tensortrove/
 [linkedin]: https://www.linkedin.com/in/debjit-mandal-53676b22a/
-[Facebook]: https://www.facebook.com/iamdebjitmandal
-[Twitter]: https://twitter.com/iamdebjitmandal
+[Facebook]: https://www.facebook.com/tensortrove
+[x]: https://x.com/tensortrove
 [website]: https://debjit-mandal.com
 
   
@@ -73,11 +73,11 @@
 
 <h1 align="center"> Social Media Links 📲 </h1>
 <p align="center">
-	<a href="https://linkedin.com/in/iamdebjitmandal"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
-	<a href="https://www.facebook.com/iamdebjitmandal"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
-	<a href="https://twitter.com/iamdebjitmandal"><img src="https://i.imgur.com/9HedEU4.gif" alt="X" width="50px" height="39.5px" /></a>
+	<a href="https://linkedin.com/in/tensortrove"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
+	<a href="https://www.facebook.com/tensortrove"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
+	<a href="https://x.com/tensortrove"><img src="https://i.imgur.com/9HedEU4.gif" alt="X" width="50px" height="39.5px" /></a>
 	<a href="https://debjit-mandal.com"><img src="https://i.imgur.com/jOPHjpU.gif" alt="Website" width="50px"/></a>
-	<a href="https://www.instagram.com/iamdebjitmandal"><img src="https://imgur.com/6QzKhtx" alt="Instagram" width="50px"/></a>
+	<a href="https://www.instagram.com/tensortrove"><img src="https://imgur.com/6QzKhtx" alt="Instagram" width="50px"/></a>
 </p>
 
 ---
