@@ -40,19 +40,19 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opulentloop&theme=highcontrast" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysticdebjit&theme=highcontrast" />
     </a>
     <a href="">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=opulentloop&theme=highcontrast"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mysticdebjit&theme=highcontrast"/>
     </a>
       <a href="">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=opulentloop&theme=highcontrast"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mysticdebjit&theme=highcontrast"/>
     </a>
       <a href="">
-      <img src="https://streak-stats.demolab.com?user=opulentloop&theme=highcontrast&hide_border=true&card_width=340"/>
+      <img src="https://streak-stats.demolab.com?user=mysticdebjit&theme=highcontrast&hide_border=true&card_width=340"/>
     </a>
       <a href="">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=opulentloop&theme=highcontrast&utcOffset=8"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mysticdebjit&theme=highcontrast&utcOffset=8"/>
     </a>
 </div
   
@@ -62,27 +62,27 @@
 
 
 
-[instagram]: https://www.instagram.com/opulentloop/
-[linkedin]: https://www.linkedin.com/in/opulentloop/
-[Facebook]: https://www.facebook.com/opulentloop/
-[x]: https://x.com/opulentloop
-[website]: https://opulentloop.is-a.dev
+[instagram]: https://www.instagram.com/mysticdebjit/
+[linkedin]: https://www.linkedin.com/in/mysticdebjit/
+[Facebook]: https://www.facebook.com/mysticdebjit/
+[x]: https://x.com/mysticdebjit
+[website]: https://debjit.is-a.dev
 
   
  ---
 
 <h1 align="center"> Social Media Links 📲 </h1>
 <p align="center">
-	<a href="https://linkedin.com/in/opulentloop"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
-	<a href="https://www.facebook.com/opulentloop"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
-	<a href="https://x.com/opulentloop"><img src="https://i.imgur.com/9HedEU4.gif" alt="X" width="50px" height="39.5px" /></a>
-	<a href="https://opulentloop.is-a.dev"><img src="https://i.imgur.com/jOPHjpU.gif" alt="Website" width="50px"/></a>
-	<a href="https://www.instagram.com/opulentloop"><img src="https://imgur.com/6QzKhtx" alt="Instagram" width="50px"/></a>
+	<a href="https://linkedin.com/in/mysticdebjit"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
+	<a href="https://www.facebook.com/mysticdebjit"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
+	<a href="https://x.com/mysticdebjit"><img src="https://i.imgur.com/9HedEU4.gif" alt="X" width="50px" height="39.5px" /></a>
+	<a href="https://debjit.is-a.dev"><img src="https://i.imgur.com/jOPHjpU.gif" alt="Website" width="50px"/></a>
+	<a href="https://www.instagram.com/mysticdebjit"><img src="https://imgur.com/6QzKhtx" alt="Instagram" width="50px"/></a>
 </p>
 
 ---
 <h1 align="center">
-  <a href="https://github.com/opulentloop/opulentloop/blob/main/opulentloopPubKey.gpg ">
+  <a href="https://github.com/mysticdebjit/mysticdebjit/blob/main/mysticdebjitPubKey.gpg ">
   My gpg key!
   </a>
 </h1>
