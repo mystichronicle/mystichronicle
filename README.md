@@ -40,19 +40,19 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysticdebjit&theme=highcontrast" />
+      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mystichronicle&theme=highcontrast" />
     </a>
     <a href="">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mysticdebjit&theme=highcontrast"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mystichronicle&theme=highcontrast"/>
     </a>
       <a href="">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mysticdebjit&theme=highcontrast"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mystichronicle&theme=highcontrast"/>
     </a>
       <a href="">
-      <img src="https://streak-stats.demolab.com?user=mysticdebjit&theme=highcontrast&hide_border=true&card_width=340"/>
+      <img src="https://streak-stats.demolab.com?user=mystichronicle&theme=highcontrast&hide_border=true&card_width=340"/>
     </a>
       <a href="">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mysticdebjit&theme=highcontrast&utcOffset=8"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mystichronicle&theme=highcontrast&utcOffset=8"/>
     </a>
 </div
   
@@ -62,27 +62,27 @@
 
 
 
-[instagram]: https://www.instagram.com/mysticdebjit/
-[linkedin]: https://www.linkedin.com/in/mysticdebjit/
-[Facebook]: https://www.facebook.com/mysticdebjit/
-[x]: https://x.com/mysticdebjit
+[instagram]: https://www.instagram.com/mystichronicle/
+[linkedin]: https://www.linkedin.com/in/mystichronicle/
+[Facebook]: https://www.facebook.com/mystichronicle/
+[x]: https://x.com/mystichronicle
 [website]: https://debjit.is-a.dev
 
   
  ---
 
-<h1 align="center"> Social Media Links 📲 </h1>
+<!-- <h1 align="center"> Social Media Links 📲 </h1>
 <p align="center">
-	<a href="https://linkedin.com/in/mysticdebjit"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
-	<a href="https://www.facebook.com/mysticdebjit"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
-	<a href="https://x.com/mysticdebjit"><img src="https://i.imgur.com/9HedEU4.gif" alt="X" width="50px" height="39.5px" /></a>
+	<a href="https://linkedin.com/in/mystichronicle"><img src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="Linkedin" width="50px"/></a>
+	<a href="https://www.facebook.com/mystichronicle"><img src="https://i.imgur.com/26xiPcn.gif" alt="Facebook" width="50px"/></a>
+	<a href="https://x.com/mystichronicle"><img src="https://i.imgur.com/9HedEU4.gif" alt="X" width="50px" height="39.5px" /></a>
 	<a href="https://debjit.is-a.dev"><img src="https://i.imgur.com/jOPHjpU.gif" alt="Website" width="50px"/></a>
-	<a href="https://www.instagram.com/mysticdebjit"><img src="https://imgur.com/6QzKhtx" alt="Instagram" width="50px"/></a>
+	<a href="https://www.instagram.com/mystichronicle"><img src="https://imgur.com/6QzKhtx" alt="Instagram" width="50px"/></a>
 </p>
 
----
+--- -->
 <h1 align="center">
-  <a href="https://github.com/mysticdebjit/mysticdebjit/blob/main/mysticdebjitPubKey.gpg ">
+  <a href="https://github.com/mystichronicle/mystichronicle/blob/main/mystichroniclePubKey.gpg ">
   My gpg key!
   </a>
 </h1>
